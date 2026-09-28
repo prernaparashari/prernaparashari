@@ -1,18 +1,61 @@
-# 💫 About Me:
-Hi there! I'm a passionate Full-Stack Developer (MERN) and Python Developer 👨‍💻  <br>I enjoy building scalable, high-performance web applications and solving real-world problems through code.  <br><br>Currently, I’m exploring AI Engineering and Machine Learning to create intelligent, data-driven systems.  <br>I have a strong interest in Data Structures & Algorithms and continuously work on improving my problem-solving skills.  <br><br>I believe in learning by building, and I’m always open to collaborating on exciting projects 🚀
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/prernaparashari/prernaparashari/main/assets/matrix-banner.svg" width="100%" alt="Prerna Parashari"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prerna-parashari-997047353) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@prernaparashari18) 
+<br/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=prernaparashari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=prernaparashari&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=prernaparashari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://www.linkedin.com/in/prerna-parashari-997047353"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@prernaparashari18"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<img src="https://img.shields.io/github/followers/prernaparashari?style=for-the-badge&color=2dd4ff&labelColor=0a0e17&logo=github" />
 
----
-[![](https://komarev.com/ghpvc/?username=prernaparashari&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About
+
+Full-Stack Developer (MERN) and Python Developer with hands-on experience building responsive, database-driven web applications. I have a solid foundation in **Data Structures & Algorithms** and core computer science fundamentals, and I am currently expanding into **Applied AI Engineering** (LLM integration, RAG pipelines), **System Design** and **System Security**, with a focus on writing clean, reliable and secure code.
+
+> [!NOTE]
+> **Open to opportunities** — Software Engineer / Full-Stack Developer roles.
+
+<table width="100%">
+<tr>
+<th align="left" width="55%">🛠️ Tech Stack</th>
+<th align="left" width="45%">🎯 Current Focus</th>
+</tr>
+<tr>
+<td valign="top">
+
+<sub><b>LANGUAGES</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=py,js,html,css&theme=dark" height="42" /><br/>
+<sub><b>FRONTEND · BACKEND</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" height="42" /><br/>
+<sub><b>DATABASES</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" height="42" /><br/>
+<sub><b>TOOLS</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="42" />
+
+</td>
+<td valign="top">
+
+<br/>
+▹ Strengthening core JavaScript &amp; Python fundamentals<br/><br/>
+▹ Solving DSA problems daily<br/><br/>
+▹ Building AI-powered full-stack apps (RAG, LLM APIs)<br/><br/>
+▹ Learning system design and system security fundamentals
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI_Engineering-0a0e17?style=for-the-badge&logo=openai&logoColor=5FE3FF"/>
+<img src="https://img.shields.io/badge/System_Design-0a0e17?style=for-the-badge&logo=diagramsdotnet&logoColor=5FE3FF"/>
+<img src="https://img.shields.io/badge/System_Security-0a0e17?style=for-the-badge&logo=hackthebox&logoColor=5FE3FF"/>
+<img src="https://img.shields.io/badge/DSA-0a0e17?style=for-the-badge&logo=leetcode&logoColor=5FE3FF"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=5FE3FF&center=true&vCenter=true&width=600&height=40&lines=Building%2C+breaking%2C+and+fixing+%E2%80%94+one+commit+at+a+time." />
+
+<img src="https://raw.githubusercontent.com/prernaparashari/prernaparashari/main/assets/wave-footer.svg" width="100%" alt=""/>
+
+</div>
